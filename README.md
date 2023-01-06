@@ -13,7 +13,7 @@ This web app helps tourists discover new places to visit and things to do in a g
 
 ### Installing
 
-1. Clone the repository: `git clone https://github.com/your-username/tour-guide.git`
+1. Clone the repository: `git clone https://github.com/Danielmituku/Natours.git`
 2. Install the dependencies: `npm install`
 
 ### Running the app
@@ -23,7 +23,6 @@ This web app helps tourists discover new places to visit and things to do in a g
 
 ## Built With
 
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Express](https://expressjs.com/) - A web framework for Node.js
 
 ## Contributing
